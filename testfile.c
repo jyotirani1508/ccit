@@ -7,5 +7,11 @@ int main()
    printf("a = %d",a);
    printf("\nh = %d",h);
    printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
+   printf("\nsum of a and h = %d ",a+h);
    
 }
